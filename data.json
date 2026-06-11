@@ -1,0 +1,85 @@
+{
+    "Jardel": {
+        "password": "123456",
+        "vehicles": {
+            "1213AA19": {
+                "model": "Vanguard",
+                "mileage": 56000,
+                "maintenance": [
+                    {
+                        "type": "Oil Change",
+                        "cost": 25000.0,
+                        "mileage": 50000
+                    }
+                ]
+            }
+        }
+    },
+    "Alex": {
+        "password": "1342",
+        "vehicles": {
+            "8418AA19": {
+                "model": "Mercedes AMG12",
+                "mileage": 57000,
+                "maintenance": [
+                    {
+                        "type": "Oil Change",
+                        "cost": 25000.0,
+                        "mileage": 50000
+                    }
+                ]
+            }
+        }
+    },
+    "Alexis": {
+        "password": "1342",
+        "vehicles": {
+            "8418AA19": {
+                "model": "Mercedes AMG",
+                "mileage": 61000,
+                "maintenance": [
+                    {
+                        "type": "Oil Change",
+                        "cost": 20000.0,
+                        "mileage": 50000
+                    },
+                    {
+                        "type": "Oil Change",
+                        "cost": 30000.0,
+                        "mileage": 56000,
+                        "date": "10/06/2026"
+                    }
+                ]
+            }
+        }
+    },
+    "Byz": {
+        "password": "1111",
+        "vehicles": {
+            "RB1232A": {
+                "model": "Cruzer",
+                "mileage": 26000,
+                "maintenance": [
+                    {
+                        "type": "Tire Change",
+                        "cost": 20000.0,
+                        "mileage": 20000,
+                        "date": "10/06/2026"
+                    },
+                    {
+                        "type": "Oil Change",
+                        "cost": 13000.0,
+                        "mileage": 20000,
+                        "date": "10/06/2026"
+                    },
+                    {
+                        "type": "General Service",
+                        "cost": 25000.0,
+                        "mileage": 20000,
+                        "date": "10/06/2026"
+                    }
+                ]
+            }
+        }
+    }
+}
